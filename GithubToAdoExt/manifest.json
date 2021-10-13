@@ -1,6 +1,6 @@
 {
     "name": "GitHub to ADO Linker",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "manifest_version": 2,
     "description": "A Chromium extension for linking to MSFT internal ADO items from WinUI 3 GitHub issues",
     "icons": {
